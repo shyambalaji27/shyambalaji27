@@ -1,50 +1,115 @@
-# SHYAMBALAJI S
+ <p align="center">
+  <img src="./Shyam%E2%80%99s%20Neon%20Cybersecurity%20Portfolio.png" alt="Shyam's Cybersecurity Portfolio Banner" width="100%">
+</p>
 
-### Computer Science Engineering | Cloud Security | Cybersecurity | AI & Data Science
+<h1 align="center">SHYAMBALAJI S</h1>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shyambalaji27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyambalaji-s-7a2072379/)
+<h3 align="center">Computer Science Engineering | Cloud Security | Cybersecurity | AI & Data Science</h3>
+
+<p align="center">
+  <a href="https://github.com/shyambalaji27">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/shyambalaji-s-7a2072379/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
-### About Me
+## About Me
 
-Computer Science Engineering student interested in **Cloud Security, Cybersecurity, Artificial Intelligence, and Data Science**. Focused on building practical projects, strengthening technical skills, and exploring emerging technologies.
+Computer Science Engineering student passionate about developing secure, intelligent, and innovative technology solutions.
 
-- Aspiring Cloud Security Engineer
-- Interested in secure cloud infrastructure and network security
-- Exploring Machine Learning and Generative AI
+- Aspiring **Cloud Security Engineer**
+- Interested in **Cybersecurity and Network Security**
+- Exploring **Artificial Intelligence and Generative AI**
+- Building practical projects in cloud computing and software development
 - Passionate about problem-solving and continuous learning
 
-### Technical Skills
+---
 
-- **Programming:** Python, Java, C
-- **Cybersecurity & Cloud:** Cybersecurity, Cloud Security, Cloud Computing, Computer Networks
-- **AI & Data Science:** Machine Learning, Generative AI, NumPy, Pandas, Data Analysis
-- **Tools & Platforms:** GitHub, Linux, Docker, Power BI
+## Technical Skills
 
-### Featured Projects
+**Programming Languages**
 
-- **Robotic Swan:** Prototype for sustainable water-quality assessment using sensors and intelligent analysis.
-- **Face Emotion Recognition:** Machine learning-based facial emotion recognition system.
-- **PhishGuard:** AI-inspired phishing URL detection system.
-- **Cloud Security Projects:** Practical applications focused on security assessment and secure file handling.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-### Achievements & Activities
+**Cloud & Cybersecurity**
 
-- **IIC Hackathon:** Secured 1st Place.
-- **Power BI Workshop:** Hands-on experience in data visualization and analytics.
-- **IIT Tirupati:** Exposure to research, entrepreneurship, and innovation.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=flat-square)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-0078D4?style=flat-square)
+![Networking](https://img.shields.io/badge/Computer_Networks-00897B?style=flat-square)
 
-### Career Objective
+**AI & Data Science**
 
-Aspiring **Cloud Security Engineer** committed to developing expertise in cloud infrastructure, cybersecurity, networking, and secure technology solutions.
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8E44AD?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Tools & Platforms**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
-### Let's Connect
+## Featured Projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyambalaji27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyambalaji-s-7a2072379/)
+| Project | Description |
+|---|---|
+| [PhishGuard](https://phishguard-app-vw56.onrender.com/) | AI-inspired phishing URL detection system |
+| Secure AWS Web Application | Secure cloud infrastructure using AWS services |
+| [ULPF](https://ulpf.vercel.app/) | Universal Log Pre-processing Framework |
+| Face Emotion Recognition | Machine learning-based facial emotion recognition |
+| [ReUse Market](https://reuse-market-liart.vercel.app/) | Second-hand product marketplace |
+| Robotic Swan | Environmental sensing and water-quality assessment prototype |
+| Password Strength Checker | Password security analysis tool |
+| Secure File Encryptor | File encryption and security application |
 
-**Learn • Build • Secure • Innovate**
+---
+
+## Achievements & Activities
+
+- **IIC Hackathon:** Secured 1st Place.
+- **Power BI Workshop:** Participated in data visualization and analytics training.
+- **IIT Tirupati:** Research, entrepreneurship, and innovation exposure.
+
+---
+
+## Current Focus
+
+- Cloud Security Engineering
+- AWS Infrastructure and Security
+- Cybersecurity and Network Security
+- Docker and Cloud Technologies
+- Artificial Intelligence and Machine Learning
+
+---
+
+## Career Objective
+
+To become a **Cloud Security Engineer**, developing expertise in cloud infrastructure, cybersecurity, networking, and secure application development.
+
+---
+
+<h3 align="center">Let's Connect</h3>
+
+<p align="center">
+  <a href="https://github.com/shyambalaji27">GitHub</a> •
+  <a href="https://www.linkedin.com/in/shyambalaji-s-7a2072379/">LinkedIn</a>
+</p>
+
+<p align="center">
+  <b>BUILD • SECURE • INNOVATE</b>
+</p>
+
+<p align="center">
+  <sub>© 2026 Shyambalaji S</sub>
+</p>

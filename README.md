@@ -6,9 +6,7 @@
 
 <h2 align="center">Computer Science Engineering Student | Aspiring Cloud Security Engineer</h2>
 
-<p align="center">
-  Cloud Security • Cybersecurity • Artificial Intelligence • Software Development
-</p>
+
 
 <p align="center">
   <a href="https://github.com/shyambalaji27">
